@@ -1,5 +1,4 @@
 # JaveriaJaved951
-My repo
 ![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/repo-name?style=social)
 # 💼 My Portfolio
@@ -19,8 +18,8 @@ Welcome to my portfolio repository! This is a showcase of my projects, skills, a
 
 ## 👋 About Me
 
-Hi! I'm **[Your Name]**, a [Your Profession, e.g., Software Developer, Designer, Data Scientist] passionate about [mention your interests, e.g., building impactful applications, designing user-centric interfaces, solving complex problems].  
-🎯 Currently working on [current project/learning goal].  
+Hi! I'm **JAVERIA JAVED**, a Software Engineer passionate about building impactful applications, designing user-centric interfaces, solving complex problems.  
+🎯 Currently student at COMSATS Attock.  
 🌱 Always learning and exploring new technologies.
 
 ---
@@ -39,8 +38,8 @@ Here are some of the notable projects I've worked on:
 
 | 📝 Project Name     | 🌟 Description                                                   | 🔗 Link to Project  |
 |---------------------|------------------------------------------------------------------|---------------------|
-| **[Project 1 Name]**| [Brief description of the project. E.g., A web app for XYZ.]    | [View Project](#)   |
-| **[Project 2 Name]**| [Brief description of the project. E.g., A machine learning model for ABC.]| [View Project](#)   |
+| **Spam Email Detection**| Creating a ML model to accurately detect spam emails.  | [View Project](https://github.com/JaveriaJaved051/Spam-Email-Detection)   |
+| **CarPricePredictionProject**|  Exciting project focused on predicting car prices based on various features like age, mileage, brand, and transmission type.| [View Project](https://github.com/JaveriaJaved051/CarPricePredictionProject)   |
 | **[Project 3 Name]**| [Brief description of the project. E.g., An open-source tool for DEF.]| [View Project](#)   |
 
 Check out all my projects [here](#).
